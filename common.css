@@ -1,6 +1,7 @@
 h1{
-    margin-left: 130px;
+    margin-left: 3px;
     color: white;
+    margin-top: 30px;
   }
   p{
     color: white;
@@ -11,3 +12,69 @@ h1{
   summary{
     color:white;
   }
+  .icon{
+    border-radius: 50px;
+  }
+  .rajat-1{
+    width: 105px;
+    height: 105px;
+    border-radius: 100px;
+    object-fit: cover;
+    
+    
+}
+.grid-div{
+    display: grid;
+    grid-template-columns: 250px 170px;
+}
+
+.h1-div{
+    margin-right: 10px;
+    border: soli;
+    border-color: white;
+}
+.rajat-1-div{
+    margin-left: 15px;
+    border: soli;
+    border-color: white;
+}
+.details-1{
+    margin-top: 40px;
+    font-family: "Edu AU VIC WA NT Hand", cursive;
+    font-weight: bold;
+   
+}
+.summary-1{
+    line-height: 25px;
+}
+.mia-khalifa{
+    width: 60px;
+    height: 60px;
+    border-radius: 10px;
+}
+.grid-2{
+    display: grid;
+    grid-template-columns:336px 50px;
+}
+.details-1-div{
+    border: soli;
+    border-color: white;
+}
+.mia-khalifa-div{
+    margin-top: 23px;
+    margin-left: 5px;
+}
+.dick-1{
+    width: 90px;
+    margin-bottom: 10px;
+}
+.rajat-details{
+    font-family: arial;
+}
+.rajat-ganja{
+    width: 80px;
+    height: 80px;
+    object-fit: cover;
+    border-radius: 30px;
+    margin-top: 10px;
+}
